@@ -1,0 +1,19 @@
+{
+  "name": "arabic2roman",
+  "version": "1.0.0",
+  "description": "A program to convert Arabic numbers to Roman numerals in Python using TDD and pytest."
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bargerva/arabic2roman.git"
+  },
+  "author": "BargerVA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bargerva/arabic2roman/issues"
+  },
+  "homepage": "https://github.com/bargerva/arabic2roman#readme"
+}
